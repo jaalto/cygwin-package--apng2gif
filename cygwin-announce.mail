@@ -1,24 +1,31 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: apng2gif 1.5-1 -- decription
+Subject: New: apng2gif 1.5-1 -- Tool for converting APNG images to animated GIF format
 --text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage:
-License : GPL
+Homepage: https://sourceforge.net/projects/apng2gif
+License : Custom "as is"
 
-<write description here>
+This package provides a command line tool for converting images from
+Animated PNG to animated GIF format.
+
+The Animated Portable Network Graphics (APNG) file format is an
+extension to the Portable Network Graphics (PNG) specification. It
+allows for animated PNG files that work similarly to animated GIF
+files, while retaining backward compatibility with non-animated PNG
+files and adding support for 8-bit transparency and 24-bit images.
 
 CHANGES SINCE LAST RELEASE
 ==========================
 
-<Add this section if this is update>
+None.
 
 INSTALL OR UPGRADE NOTES
 ========================
 
-<if anything to watch out>
+Standard install.
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
@@ -29,7 +36,7 @@ system. Then, run setup and answer all of the questions. You'll find
 the package listed in the "All" category. After installation, read the
 documentation at directories:
 
-    /usr/share/doc/<package-version>/*
+    /usr/share/doc/<package>/*
     /usr/share/doc/Cygwin/<package-version>.README
 
 If you have questions or comments, please send them to the Cygwin

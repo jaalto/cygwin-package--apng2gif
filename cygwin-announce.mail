@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: New: apng2gif 1.5-1 -- Tool for converting APNG images to animated GIF format
+Subject: New package: apng2gif 1.5-1 -- Tool for converting APNG images to animated GIF format
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -20,7 +20,7 @@ files and adding support for 8-bit transparency and 24-bit images.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-None.
+This project does not maintain release notes.
 
 INSTALL OR UPGRADE NOTES
 ========================
